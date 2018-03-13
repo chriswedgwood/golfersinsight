@@ -64,7 +64,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"hole":10,"object":"teebox"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
